@@ -1,0 +1,11 @@
+# Portable CPU / macOS installation. CUDA users: see requirements-cuda.txt.
+torch==2.3.1
+gpytorch==1.14
+linear_operator==0.6
+numpy==1.26.4
+scipy==1.12.0
+scikit-learn==1.7.0
+pandas==2.2.3
+click==8.2.1
+joblib==1.5.1
+matplotlib==3.10.3

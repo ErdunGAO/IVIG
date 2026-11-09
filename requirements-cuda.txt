@@ -1,0 +1,4 @@
+# Linux x86_64 with CUDA 12.1. The public PyTorch version matches requirements.txt.
+--extra-index-url https://download.pytorch.org/whl/cu121
+-r requirements.txt
+torch==2.3.1+cu121
